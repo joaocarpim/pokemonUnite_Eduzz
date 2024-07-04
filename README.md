@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
- [Vizualizar](https://pokedex-beta-olive.vercel.app/)
+ [Vizualizar](https://pokemon-unite-eduzz.vercel.app/)
 <details>
   <summary>📸</summary>
   
